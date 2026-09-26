@@ -25,7 +25,7 @@ The analysis focuses on team performance, match results, toss decisions, venues,
 
 ## Project Structure
 
-```text
+
 IPL-Cricket-Data-Analysis/
 │
 ├── data/
@@ -34,7 +34,7 @@ IPL-Cricket-Data-Analysis/
 ├── analysis.py
 │
 └── README.md
-```
+
 
 How to Run
 pip install pandas numpy matplotlib
