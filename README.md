@@ -36,8 +36,13 @@ IPL-Cricket-Data-Analysis/
 └── README.md
 ```
 
-## How to Run
+How to Run
+pip install pandas numpy matplotlib
+python analysis.py
+Output
 
-```bash
-pip inst
-```
+The project generates statistical insights and visualizations showing IPL team and match performance.
+
+Author
+
+Shejal Dhakate
